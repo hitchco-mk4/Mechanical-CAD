@@ -1,3 +1,5 @@
+_This repo is a part of the Hitchco MK4 project. You can read more about the project [here](http://www.esologic.com/hitchco-mk4/)._
+
 # Mechanical-CAD
  
 ![al1](https://user-images.githubusercontent.com/3516293/42178141-40df0c5a-7dfd-11e8-8f0b-bbb6ec7525a9.JPG)
